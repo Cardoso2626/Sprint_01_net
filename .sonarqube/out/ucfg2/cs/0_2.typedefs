@@ -1,6 +1,73 @@
 1
 Programobject
 	Program()Program.Program()Å
+Sprint_1.DTOs.MotoUpdateDTOobject>
+MotoUpdateDTO()+Sprint_1.DTOs.MotoUpdateDTO.MotoUpdateDTO()2
+	Marca.get%Sprint_1.DTOs.MotoUpdateDTO.Marca.get2
+	Marca.set%Sprint_1.DTOs.MotoUpdateDTO.Marca.set4
+
+Modelo.get&Sprint_1.DTOs.MotoUpdateDTO.Modelo.get4
+
+Modelo.set&Sprint_1.DTOs.MotoUpdateDTO.Modelo.set.
+Ano.get#Sprint_1.DTOs.MotoUpdateDTO.Ano.get.
+Ano.set#Sprint_1.DTOs.MotoUpdateDTO.Ano.set2
+	Placa.get%Sprint_1.DTOs.MotoUpdateDTO.Placa.get2
+	Placa.set%Sprint_1.DTOs.MotoUpdateDTO.Placa.set¡
+"Sprint_1.DTOs.FuncionarioCreateDTOobjectS
+FuncionarioCreateDTO()9Sprint_1.DTOs.FuncionarioCreateDTO.FuncionarioCreateDTO()7
+Nome.get+Sprint_1.DTOs.FuncionarioCreateDTO.Nome.get7
+Nome.set+Sprint_1.DTOs.FuncionarioCreateDTO.Nome.set5
+Cpf.get*Sprint_1.DTOs.FuncionarioCreateDTO.Cpf.get5
+Cpf.set*Sprint_1.DTOs.FuncionarioCreateDTO.Cpf.set9
+	Email.get,Sprint_1.DTOs.FuncionarioCreateDTO.Email.get9
+	Email.set,Sprint_1.DTOs.FuncionarioCreateDTO.Email.set3
+Rg.get)Sprint_1.DTOs.FuncionarioCreateDTO.Rg.get3
+Rg.set)Sprint_1.DTOs.FuncionarioCreateDTO.Rg.set?
+Telefone.get/Sprint_1.DTOs.FuncionarioCreateDTO.Telefone.get?
+Telefone.set/Sprint_1.DTOs.FuncionarioCreateDTO.Telefone.set=
+PatioId.get.Sprint_1.DTOs.FuncionarioCreateDTO.PatioId.get=
+PatioId.set.Sprint_1.DTOs.FuncionarioCreateDTO.PatioId.setÈ
+Sprint_1.Models.Chaveiroobject1
+
+Chaveiro()#Sprint_1.Models.Chaveiro.Chaveiro())
+Id.getSprint_1.Models.Chaveiro.Id.get)
+Id.setSprint_1.Models.Chaveiro.Id.set;
+Dispositivo.get(Sprint_1.Models.Chaveiro.Dispositivo.get;
+Dispositivo.set(Sprint_1.Models.Chaveiro.Dispositivo.set1
+
+MotoId.get#Sprint_1.Models.Chaveiro.MotoId.get1
+
+MotoId.set#Sprint_1.Models.Chaveiro.MotoId.set-
+Moto.get!Sprint_1.Models.Chaveiro.Moto.get-
+Moto.set!Sprint_1.Models.Chaveiro.Moto.setâ
+Sprint_1.DTOs.MotoDTOobject,
+	MotoDTO()Sprint_1.DTOs.MotoDTO.MotoDTO()&
+Id.getSprint_1.DTOs.MotoDTO.Id.get&
+Id.setSprint_1.DTOs.MotoDTO.Id.set,
+	Marca.getSprint_1.DTOs.MotoDTO.Marca.get,
+	Marca.setSprint_1.DTOs.MotoDTO.Marca.set.
+
+Modelo.get Sprint_1.DTOs.MotoDTO.Modelo.get.
+
+Modelo.set Sprint_1.DTOs.MotoDTO.Modelo.set(
+Ano.getSprint_1.DTOs.MotoDTO.Ano.get(
+Ano.setSprint_1.DTOs.MotoDTO.Ano.set,
+	Placa.getSprint_1.DTOs.MotoDTO.Placa.get,
+	Placa.setSprint_1.DTOs.MotoDTO.Placa.set¡
+"Sprint_1.DTOs.FuncionarioUpdateDTOobjectS
+FuncionarioUpdateDTO()9Sprint_1.DTOs.FuncionarioUpdateDTO.FuncionarioUpdateDTO()7
+Nome.get+Sprint_1.DTOs.FuncionarioUpdateDTO.Nome.get7
+Nome.set+Sprint_1.DTOs.FuncionarioUpdateDTO.Nome.set5
+Cpf.get*Sprint_1.DTOs.FuncionarioUpdateDTO.Cpf.get5
+Cpf.set*Sprint_1.DTOs.FuncionarioUpdateDTO.Cpf.set9
+	Email.get,Sprint_1.DTOs.FuncionarioUpdateDTO.Email.get9
+	Email.set,Sprint_1.DTOs.FuncionarioUpdateDTO.Email.set3
+Rg.get)Sprint_1.DTOs.FuncionarioUpdateDTO.Rg.get3
+Rg.set)Sprint_1.DTOs.FuncionarioUpdateDTO.Rg.set?
+Telefone.get/Sprint_1.DTOs.FuncionarioUpdateDTO.Telefone.get?
+Telefone.set/Sprint_1.DTOs.FuncionarioUpdateDTO.Telefone.set=
+PatioId.get.Sprint_1.DTOs.FuncionarioUpdateDTO.PatioId.get=
+PatioId.set.Sprint_1.DTOs.FuncionarioUpdateDTO.PatioId.setÅ
 Sprint_1.DTOs.MotoCreateDTOobject>
 MotoCreateDTO()+Sprint_1.DTOs.MotoCreateDTO.MotoCreateDTO()2
 	Marca.get%Sprint_1.DTOs.MotoCreateDTO.Marca.get2
@@ -28,39 +95,16 @@ Modelo.set&Sprint_1.DTOs.MotoCreateDTO.Modelo.set.
 Telefone.get)Sprint_1.DTOs.FuncionarioDTO.Telefone.get9
 Telefone.set)Sprint_1.DTOs.FuncionarioDTO.Telefone.set7
 PatioId.get(Sprint_1.DTOs.FuncionarioDTO.PatioId.get7
-PatioId.set(Sprint_1.DTOs.FuncionarioDTO.PatioId.set¡
-"Sprint_1.DTOs.FuncionarioCreateDTOobjectS
-FuncionarioCreateDTO()9Sprint_1.DTOs.FuncionarioCreateDTO.FuncionarioCreateDTO()7
-Nome.get+Sprint_1.DTOs.FuncionarioCreateDTO.Nome.get7
-Nome.set+Sprint_1.DTOs.FuncionarioCreateDTO.Nome.set5
-Cpf.get*Sprint_1.DTOs.FuncionarioCreateDTO.Cpf.get5
-Cpf.set*Sprint_1.DTOs.FuncionarioCreateDTO.Cpf.set9
-	Email.get,Sprint_1.DTOs.FuncionarioCreateDTO.Email.get9
-	Email.set,Sprint_1.DTOs.FuncionarioCreateDTO.Email.set3
-Rg.get)Sprint_1.DTOs.FuncionarioCreateDTO.Rg.get3
-Rg.set)Sprint_1.DTOs.FuncionarioCreateDTO.Rg.set?
-Telefone.get/Sprint_1.DTOs.FuncionarioCreateDTO.Telefone.get?
-Telefone.set/Sprint_1.DTOs.FuncionarioCreateDTO.Telefone.set=
-PatioId.get.Sprint_1.DTOs.FuncionarioCreateDTO.PatioId.get=
-PatioId.set.Sprint_1.DTOs.FuncionarioCreateDTO.PatioId.setÎ
+PatioId.set(Sprint_1.DTOs.FuncionarioDTO.PatioId.setê
+!Sprint_1.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject†
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)_Sprint_1.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)§
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)aSprint_1.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)û
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)^Sprint_1.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)D
+InitialCreate()1Sprint_1.Migrations.InitialCreate.InitialCreate()Î
 Sprint_1.DTOs.PatioCreateDTOobjectA
 PatioCreateDTO()-Sprint_1.DTOs.PatioCreateDTO.PatioCreateDTO()?
 Localizacao.get,Sprint_1.DTOs.PatioCreateDTO.Localizacao.get?
-Localizacao.set,Sprint_1.DTOs.PatioCreateDTO.Localizacao.set¡
-"Sprint_1.DTOs.FuncionarioUpdateDTOobjectS
-FuncionarioUpdateDTO()9Sprint_1.DTOs.FuncionarioUpdateDTO.FuncionarioUpdateDTO()7
-Nome.get+Sprint_1.DTOs.FuncionarioUpdateDTO.Nome.get7
-Nome.set+Sprint_1.DTOs.FuncionarioUpdateDTO.Nome.set5
-Cpf.get*Sprint_1.DTOs.FuncionarioUpdateDTO.Cpf.get5
-Cpf.set*Sprint_1.DTOs.FuncionarioUpdateDTO.Cpf.set9
-	Email.get,Sprint_1.DTOs.FuncionarioUpdateDTO.Email.get9
-	Email.set,Sprint_1.DTOs.FuncionarioUpdateDTO.Email.set3
-Rg.get)Sprint_1.DTOs.FuncionarioUpdateDTO.Rg.get3
-Rg.set)Sprint_1.DTOs.FuncionarioUpdateDTO.Rg.set?
-Telefone.get/Sprint_1.DTOs.FuncionarioUpdateDTO.Telefone.get?
-Telefone.set/Sprint_1.DTOs.FuncionarioUpdateDTO.Telefone.set=
-PatioId.get.Sprint_1.DTOs.FuncionarioUpdateDTO.PatioId.get=
-PatioId.set.Sprint_1.DTOs.FuncionarioUpdateDTO.PatioId.setô
+Localizacao.set,Sprint_1.DTOs.PatioCreateDTO.Localizacao.setô
 Sprint_1.DTOs.PatioDTOobject/
 
 PatioDTO()!Sprint_1.DTOs.PatioDTO.PatioDTO()'
@@ -71,80 +115,20 @@ PatioDTO()!Sprint_1.DTOs.PatioDTO.PatioDTO()'
 Sprint_1.DTOs.PatioUpdateDTOobjectA
 PatioUpdateDTO()-Sprint_1.DTOs.PatioUpdateDTO.PatioUpdateDTO()?
 Localizacao.get,Sprint_1.DTOs.PatioUpdateDTO.Localizacao.get?
-Localizacao.set,Sprint_1.DTOs.PatioUpdateDTO.Localizacao.setâ
-Sprint_1.DTOs.MotoDTOobject,
-	MotoDTO()Sprint_1.DTOs.MotoDTO.MotoDTO()&
-Id.getSprint_1.DTOs.MotoDTO.Id.get&
-Id.setSprint_1.DTOs.MotoDTO.Id.set,
-	Marca.getSprint_1.DTOs.MotoDTO.Marca.get,
-	Marca.setSprint_1.DTOs.MotoDTO.Marca.set.
-
-Modelo.get Sprint_1.DTOs.MotoDTO.Modelo.get.
-
-Modelo.set Sprint_1.DTOs.MotoDTO.Modelo.set(
-Ano.getSprint_1.DTOs.MotoDTO.Ano.get(
-Ano.setSprint_1.DTOs.MotoDTO.Ano.set,
-	Placa.getSprint_1.DTOs.MotoDTO.Placa.get,
-	Placa.setSprint_1.DTOs.MotoDTO.Placa.setÈ
-Sprint_1.Models.Chaveiroobject1
-
-Chaveiro()#Sprint_1.Models.Chaveiro.Chaveiro())
-Id.getSprint_1.Models.Chaveiro.Id.get)
-Id.setSprint_1.Models.Chaveiro.Id.set;
-Dispositivo.get(Sprint_1.Models.Chaveiro.Dispositivo.get;
-Dispositivo.set(Sprint_1.Models.Chaveiro.Dispositivo.set1
-
-MotoId.get#Sprint_1.Models.Chaveiro.MotoId.get1
-
-MotoId.set#Sprint_1.Models.Chaveiro.MotoId.set-
-Moto.get!Sprint_1.Models.Chaveiro.Moto.get-
-Moto.set!Sprint_1.Models.Chaveiro.Moto.setÅ
-Sprint_1.DTOs.MotoUpdateDTOobject>
-MotoUpdateDTO()+Sprint_1.DTOs.MotoUpdateDTO.MotoUpdateDTO()2
-	Marca.get%Sprint_1.DTOs.MotoUpdateDTO.Marca.get2
-	Marca.set%Sprint_1.DTOs.MotoUpdateDTO.Marca.set4
-
-Modelo.get&Sprint_1.DTOs.MotoUpdateDTO.Modelo.get4
-
-Modelo.set&Sprint_1.DTOs.MotoUpdateDTO.Modelo.set.
-Ano.get#Sprint_1.DTOs.MotoUpdateDTO.Ano.get.
-Ano.set#Sprint_1.DTOs.MotoUpdateDTO.Ano.set2
-	Placa.get%Sprint_1.DTOs.MotoUpdateDTO.Placa.get2
-	Placa.set%Sprint_1.DTOs.MotoUpdateDTO.Placa.setÅ
-Sprint_1.Models.Motoobject%
-Moto()Sprint_1.Models.Moto.Moto()%
-Id.getSprint_1.Models.Moto.Id.get%
-Id.setSprint_1.Models.Moto.Id.set'
-Cor.getSprint_1.Models.Moto.Cor.get'
-Cor.setSprint_1.Models.Moto.Cor.set+
-	Placa.getSprint_1.Models.Moto.Placa.get+
-	Placa.setSprint_1.Models.Moto.Placa.set=
-DataFabricacao.get'Sprint_1.Models.Moto.DataFabricacao.get=
-DataFabricacao.set'Sprint_1.Models.Moto.DataFabricacao.set-
-
-Patios.getSprint_1.Models.Moto.Patios.get-
-
-Patios.setSprint_1.Models.Moto.Patios.set1
-Chaveiro.get!Sprint_1.Models.Moto.Chaveiro.get1
-Chaveiro.set!Sprint_1.Models.Moto.Chaveiro.set˛
--Sprint_1.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobjectû
-6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)dSprint_1.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)h
-AppDbContextModelSnapshot()ISprint_1.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()·
-Sprint_1.Models.Patioobject(
-Patio()Sprint_1.Models.Patio.Patio()&
-Id.getSprint_1.Models.Patio.Id.get&
-Id.setSprint_1.Models.Patio.Id.set8
-Localizacao.get%Sprint_1.Models.Patio.Localizacao.get8
-Localizacao.set%Sprint_1.Models.Patio.Localizacao.set:
-Funcionarios.get&Sprint_1.Models.Patio.Funcionarios.get:
-Funcionarios.set&Sprint_1.Models.Patio.Funcionarios.set,
-	Motos.getSprint_1.Models.Patio.Motos.get,
-	Motos.setSprint_1.Models.Patio.Motos.setÊ
+Localizacao.set,Sprint_1.DTOs.PatioUpdateDTO.Localizacao.set»
+)Sprint_1.Migrations.AddLocalizacaoToPatio2Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)gSprint_1.Migrations.AddLocalizacaoToPatio.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¨
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)iSprint_1.Migrations.AddLocalizacaoToPatio.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¶
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)fSprint_1.Migrations.AddLocalizacaoToPatio.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)\
+AddLocalizacaoToPatio()ASprint_1.Migrations.AddLocalizacaoToPatio.AddLocalizacaoToPatio()Ê
 Sprint_1.Migrations.Inicial2Microsoft.EntityFrameworkCore.Migrations.Migrationobjectö
 =Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)YSprint_1.Migrations.Inicial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)û
 ?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)[Sprint_1.Migrations.Inicial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ò
 <BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)XSprint_1.Migrations.Inicial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)2
-	Inicial()%Sprint_1.Migrations.Inicial.Inicial()ë
+	Inicial()%Sprint_1.Migrations.Inicial.Inicial()˛
+-Sprint_1.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobjectû
+6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)dSprint_1.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)h
+AppDbContextModelSnapshot()ISprint_1.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()ë
 Sprint_1.Models.Funcionarioobject:
 Funcionario())Sprint_1.Models.Funcionario.Funcionario(),
 Id.get"Sprint_1.Models.Funcionario.Id.get,
@@ -162,17 +146,41 @@ Patios.setSprint_1.Models.Moto.Patios.set1
 PatioId.get'Sprint_1.Models.Funcionario.PatioId.get6
 PatioId.set'Sprint_1.Models.Funcionario.PatioId.set2
 	Patio.get%Sprint_1.Models.Funcionario.Patio.get2
-	Patio.set%Sprint_1.Models.Funcionario.Patio.setê
-!Sprint_1.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject†
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)_Sprint_1.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)§
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)aSprint_1.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)û
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)^Sprint_1.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)D
-InitialCreate()1Sprint_1.Migrations.InitialCreate.InitialCreate()»
-)Sprint_1.Migrations.AddLocalizacaoToPatio2Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)gSprint_1.Migrations.AddLocalizacaoToPatio.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¨
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)iSprint_1.Migrations.AddLocalizacaoToPatio.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¶
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)fSprint_1.Migrations.AddLocalizacaoToPatio.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)\
-AddLocalizacaoToPatio()ASprint_1.Migrations.AddLocalizacaoToPatio.AddLocalizacaoToPatio()≈
+	Patio.set%Sprint_1.Models.Funcionario.Patio.setÅ
+Sprint_1.Models.Motoobject%
+Moto()Sprint_1.Models.Moto.Moto()%
+Id.getSprint_1.Models.Moto.Id.get%
+Id.setSprint_1.Models.Moto.Id.set'
+Cor.getSprint_1.Models.Moto.Cor.get'
+Cor.setSprint_1.Models.Moto.Cor.set+
+	Placa.getSprint_1.Models.Moto.Placa.get+
+	Placa.setSprint_1.Models.Moto.Placa.set=
+DataFabricacao.get'Sprint_1.Models.Moto.DataFabricacao.get=
+DataFabricacao.set'Sprint_1.Models.Moto.DataFabricacao.set-
+
+Patios.getSprint_1.Models.Moto.Patios.get-
+
+Patios.setSprint_1.Models.Moto.Patios.set1
+Chaveiro.get!Sprint_1.Models.Moto.Chaveiro.get1
+Chaveiro.set!Sprint_1.Models.Moto.Chaveiro.set·
+Sprint_1.Models.Patioobject(
+Patio()Sprint_1.Models.Patio.Patio()&
+Id.getSprint_1.Models.Patio.Id.get&
+Id.setSprint_1.Models.Patio.Id.set8
+Localizacao.get%Sprint_1.Models.Patio.Localizacao.get8
+Localizacao.set%Sprint_1.Models.Patio.Localizacao.set:
+Funcionarios.get&Sprint_1.Models.Patio.Funcionarios.get:
+Funcionarios.set&Sprint_1.Models.Patio.Funcionarios.set,
+	Motos.getSprint_1.Models.Patio.Motos.get,
+	Motos.setSprint_1.Models.Patio.Motos.setö
+$Sprint_1.Controllers.PatioController'Microsoft.AspNetCore.Mvc.ControllerBaseobject
++PatioController(Sprint_1.Data.AppDbContext)PSprint_1.Controllers.PatioController.PatioController(Sprint_1.Data.AppDbContext)=
+
+GetTodos()/Sprint_1.Controllers.PatioController.GetTodos()E
+GetPorId(long)3Sprint_1.Controllers.PatioController.GetPorId(long)o
+#Criar(Sprint_1.DTOs.PatioCreateDTO)HSprint_1.Controllers.PatioController.Criar(Sprint_1.DTOs.PatioCreateDTO)É
+-Atualizar(long, Sprint_1.DTOs.PatioUpdateDTO)RSprint_1.Controllers.PatioController.Atualizar(long, Sprint_1.DTOs.PatioUpdateDTO)C
+Deletar(long)2Sprint_1.Controllers.PatioController.Deletar(long)≈
 *Sprint_1.Controllers.FuncionarioController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectë
 1FuncionarioController(Sprint_1.Data.AppDbContext)\Sprint_1.Controllers.FuncionarioController.FuncionarioController(Sprint_1.Data.AppDbContext)C
 
@@ -189,15 +197,7 @@ GetTodos().Sprint_1.Controllers.MotoController.GetTodos()D
 GetPorId(long)2Sprint_1.Controllers.MotoController.GetPorId(long)l
 "Criar(Sprint_1.DTOs.MotoCreateDTO)FSprint_1.Controllers.MotoController.Criar(Sprint_1.DTOs.MotoCreateDTO)Ä
 ,Atualizar(long, Sprint_1.DTOs.MotoUpdateDTO)PSprint_1.Controllers.MotoController.Atualizar(long, Sprint_1.DTOs.MotoUpdateDTO)B
-Deletar(long)1Sprint_1.Controllers.MotoController.Deletar(long)ö
-$Sprint_1.Controllers.PatioController'Microsoft.AspNetCore.Mvc.ControllerBaseobject
-+PatioController(Sprint_1.Data.AppDbContext)PSprint_1.Controllers.PatioController.PatioController(Sprint_1.Data.AppDbContext)=
-
-GetTodos()/Sprint_1.Controllers.PatioController.GetTodos()E
-GetPorId(long)3Sprint_1.Controllers.PatioController.GetPorId(long)o
-#Criar(Sprint_1.DTOs.PatioCreateDTO)HSprint_1.Controllers.PatioController.Criar(Sprint_1.DTOs.PatioCreateDTO)É
--Atualizar(long, Sprint_1.DTOs.PatioUpdateDTO)RSprint_1.Controllers.PatioController.Atualizar(long, Sprint_1.DTOs.PatioUpdateDTO)C
-Deletar(long)2Sprint_1.Controllers.PatioController.Deletar(long)â
+Deletar(long)1Sprint_1.Controllers.MotoController.Deletar(long)â
 Sprint_1.Data.AppDbContext'Microsoft.EntityFrameworkCore.DbContextobjectœ
 XAppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Sprint_1.Data.AppDbContext>)sSprint_1.Data.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Sprint_1.Data.AppDbContext>)ï
 ;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)VSprint_1.Data.AppDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)1

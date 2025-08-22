@@ -14,117 +14,6 @@
         {
           "ruleId": "CS8618",
           "level": "warning",
-          "message": "O propriedade não anulável 'Motos' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 16,
-                  "endLine": 9,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 28,
-                  "endLine": 11,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Funcionarios' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 16,
-                  "endLine": 9,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 35,
-                  "endLine": 12,
-                  "endColumn": 47
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Patios' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 16,
-                  "endLine": 9,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 13,
-                  "startColumn": 29,
-                  "endLine": 13,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
           "message": "O propriedade não anulável 'Localizacao' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
           "locations": [
             {
@@ -143,822 +32,6 @@
             {
               "physicalLocation": {
                 "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 23,
-                  "endLine": 16,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Localizacao' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 23,
-                  "endLine": 11,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 23,
-                  "endLine": 11,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Nome' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 23,
-                  "endLine": 6,
-                  "endColumn": 27
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 23,
-                  "endLine": 6,
-                  "endColumn": 27
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Cpf' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 23,
-                  "endLine": 7,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 23,
-                  "endLine": 7,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Email' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 23,
-                  "endLine": 8,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 23,
-                  "endLine": 8,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Rg' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 23,
-                  "endLine": 9,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 23,
-                  "endLine": 9,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Telefone' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 23,
-                  "endLine": 10,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 23,
-                  "endLine": 10,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Localizacao' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 23,
-                  "endLine": 6,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 23,
-                  "endLine": 6,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Nome' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 23,
-                  "endLine": 17,
-                  "endColumn": 27
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 23,
-                  "endLine": 17,
-                  "endColumn": 27
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Cpf' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 18,
-                  "startColumn": 23,
-                  "endLine": 18,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 18,
-                  "startColumn": 23,
-                  "endLine": 18,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Email' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 23,
-                  "endLine": 19,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 23,
-                  "endLine": 19,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Rg' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 20,
-                  "startColumn": 23,
-                  "endLine": 20,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 20,
-                  "startColumn": 23,
-                  "endLine": 20,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Telefone' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 23,
-                  "endLine": 21,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 23,
-                  "endLine": 21,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Nome' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 23,
-                  "endLine": 28,
-                  "endColumn": 27
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 23,
-                  "endLine": 28,
-                  "endColumn": 27
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Cpf' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 23,
-                  "endLine": 29,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 23,
-                  "endLine": 29,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Email' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 23,
-                  "endLine": 30,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 23,
-                  "endLine": 30,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Rg' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 23,
-                  "endLine": 31,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 23,
-                  "endLine": 31,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Telefone' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 23,
-                  "endLine": 32,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 23,
-                  "endLine": 32,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Marca' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 22,
-                  "startColumn": 23,
-                  "endLine": 22,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 22,
-                  "startColumn": 23,
-                  "endLine": 22,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Modelo' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 23,
-                  "endLine": 23,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 23,
-                  "endLine": 23,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Placa' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 23,
-                  "endLine": 25,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 23,
-                  "endLine": 25,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Marca' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 14,
-                  "startColumn": 23,
-                  "endLine": 14,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 14,
-                  "startColumn": 23,
-                  "endLine": 14,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Modelo' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 23,
-                  "endLine": 15,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 23,
-                  "endLine": 15,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Placa' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 23,
-                  "endLine": 17,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 23,
-                  "endLine": 17,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "O propriedade não anulável 'Localizacao' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Patio.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 23,
-                  "endLine": 16,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Patio.cs",
                 "region": {
                   "startLine": 16,
                   "startColumn": 23,
@@ -1043,15 +116,253 @@
         {
           "ruleId": "CS8618",
           "level": "warning",
+          "message": "O propriedade não anulável 'Localizacao' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Localizacao' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Nome' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Cpf' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 23,
+                  "endLine": 7,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 23,
+                  "endLine": 7,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Email' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 23,
+                  "endLine": 8,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 23,
+                  "endLine": 8,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Rg' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 23,
+                  "endLine": 9,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 23,
+                  "endLine": 9,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Telefone' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 23,
+                  "endLine": 10,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 23,
+                  "endLine": 10,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
           "message": "O propriedade não anulável 'Marca' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
                 "region": {
-                  "startLine": 6,
+                  "startLine": 22,
                   "startColumn": 23,
-                  "endLine": 6,
+                  "endLine": 22,
                   "endColumn": 28
                 }
               }
@@ -1062,9 +373,9 @@
               "physicalLocation": {
                 "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
                 "region": {
-                  "startLine": 6,
+                  "startLine": 22,
                   "startColumn": 23,
-                  "endLine": 6,
+                  "endLine": 22,
                   "endColumn": 28
                 }
               }
@@ -1083,9 +394,9 @@
               "resultFile": {
                 "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
                 "region": {
-                  "startLine": 7,
+                  "startLine": 23,
                   "startColumn": 23,
-                  "endLine": 7,
+                  "endLine": 23,
                   "endColumn": 29
                 }
               }
@@ -1096,9 +407,9 @@
               "physicalLocation": {
                 "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
                 "region": {
-                  "startLine": 7,
+                  "startLine": 23,
                   "startColumn": 23,
-                  "endLine": 7,
+                  "endLine": 23,
                   "endColumn": 29
                 }
               }
@@ -1117,9 +428,9 @@
               "resultFile": {
                 "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
                 "region": {
-                  "startLine": 9,
+                  "startLine": 25,
                   "startColumn": 23,
-                  "endLine": 9,
+                  "endLine": 25,
                   "endColumn": 28
                 }
               }
@@ -1130,10 +441,248 @@
               "physicalLocation": {
                 "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
                 "region": {
-                  "startLine": 9,
+                  "startLine": 25,
                   "startColumn": 23,
-                  "endLine": 9,
+                  "endLine": 25,
                   "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Rg' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Telefone' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Patio' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 22,
+                  "endLine": 28,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 22,
+                  "endLine": 28,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Marca' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Modelo' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 23,
+                  "endLine": 15,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 23,
+                  "endLine": 15,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Placa' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 23,
+                  "endLine": 17,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 23,
+                  "endLine": 17,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Localizacao' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Patio.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 23,
+                  "endLine": 16,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Patio.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 23,
+                  "endLine": 16,
+                  "endColumn": 34
                 }
               }
             }
@@ -1247,15 +796,219 @@
         {
           "ruleId": "CS8618",
           "level": "warning",
+          "message": "O propriedade não anulável 'Marca' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Modelo' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 23,
+                  "endLine": 7,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 23,
+                  "endLine": 7,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Placa' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 23,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 23,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Nome' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 23,
+                  "endLine": 17,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 23,
+                  "endLine": 17,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Cpf' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Email' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 23,
+                  "endLine": 19,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 23,
+                  "endLine": 19,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
           "message": "O propriedade não anulável 'Rg' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
                 "region": {
-                  "startLine": 22,
+                  "startLine": 20,
                   "startColumn": 23,
-                  "endLine": 22,
+                  "endLine": 20,
                   "endColumn": 25
                 }
               }
@@ -1264,11 +1017,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
                 "region": {
-                  "startLine": 22,
+                  "startLine": 20,
                   "startColumn": 23,
-                  "endLine": 22,
+                  "endLine": 20,
                   "endColumn": 25
                 }
               }
@@ -1285,11 +1038,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 23,
-                  "endLine": 25,
+                  "endLine": 21,
                   "endColumn": 31
                 }
               }
@@ -1298,11 +1051,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 23,
-                  "endLine": 25,
+                  "endLine": 21,
                   "endColumn": 31
                 }
               }
@@ -1315,14 +1068,14 @@
         {
           "ruleId": "CS8618",
           "level": "warning",
-          "message": "O propriedade não anulável 'Patio' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "message": "O propriedade não anulável 'Nome' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
                 "region": {
                   "startLine": 28,
-                  "startColumn": 22,
+                  "startColumn": 23,
                   "endLine": 28,
                   "endColumn": 27
                 }
@@ -1332,10 +1085,10 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Models/Funcionario.cs",
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
                 "region": {
                   "startLine": 28,
-                  "startColumn": 22,
+                  "startColumn": 23,
                   "endLine": 28,
                   "endColumn": 27
                 }
@@ -1347,9 +1100,256 @@
           }
         },
         {
-          "ruleId": "S2068",
+          "ruleId": "CS8618",
           "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "message": "O propriedade não anulável 'Cpf' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 23,
+                  "endLine": 29,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 23,
+                  "endLine": 29,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Email' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 23,
+                  "endLine": 30,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 23,
+                  "endLine": 30,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Rg' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 23,
+                  "endLine": 31,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 23,
+                  "endLine": 31,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Telefone' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 23,
+                  "endLine": 32,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 23,
+                  "endLine": 32,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Motos' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 16,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 28,
+                  "endLine": 11,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Funcionarios' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 16,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 35,
+                  "endLine": 12,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "O propriedade não anulável 'Patios' precisa conter um valor não nulo ao sair do construtor. Considere adicionar o modificador \"obrigatório\" ou declarar o propriedade como anulável.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 16,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 29,
+                  "endLine": 13,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2115",
+          "level": "warning",
+          "message": "Use a secure password when connecting to this database.",
           "locations": [
             {
               "resultFile": {
@@ -1358,7 +1358,7 @@
                   "startLine": 3,
                   "startColumn": 26,
                   "endLine": 3,
-                  "endColumn": 109
+                  "endColumn": 94
                 }
               }
             }
@@ -1370,15 +1370,15 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'MotoCreateDTO' to match pascal case naming rules, consider using 'MotoCreateDto'.",
+          "message": "Rename class 'MotoUpdateDTO' to match pascal case naming rules, consider using 'MotoUpdateDto'.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
                 "region": {
-                  "startLine": 12,
+                  "startLine": 20,
                   "startColumn": 18,
-                  "endLine": 12,
+                  "endLine": 20,
                   "endColumn": 31
                 }
               }
@@ -1412,48 +1412,6 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'FuncionarioCreateDTO' to match pascal case naming rules, consider using 'FuncionarioCreateDto'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 18,
-                  "endLine": 15,
-                  "endColumn": 38
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'PatioCreateDTO' to match pascal case naming rules, consider using 'PatioCreateDto'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 18,
-                  "endLine": 9,
-                  "endColumn": 32
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
           "message": "Rename class 'FuncionarioUpdateDTO' to match pascal case naming rules, consider using 'FuncionarioUpdateDto'.",
           "locations": [
             {
@@ -1475,16 +1433,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'PatioDTO' to match pascal case naming rules, consider using 'PatioDto'.",
+          "message": "Rename class 'FuncionarioCreateDTO' to match pascal case naming rules, consider using 'FuncionarioCreateDto'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/FuncionarioDTO.cs",
                 "region": {
-                  "startLine": 3,
+                  "startLine": 15,
                   "startColumn": 18,
-                  "endLine": 3,
-                  "endColumn": 26
+                  "endLine": 15,
+                  "endColumn": 38
                 }
               }
             }
@@ -1496,16 +1454,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'PatioUpdateDTO' to match pascal case naming rules, consider using 'PatioUpdateDto'.",
+          "message": "Rename class 'MotoCreateDTO' to match pascal case naming rules, consider using 'MotoCreateDto'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
                 "region": {
-                  "startLine": 14,
+                  "startLine": 12,
                   "startColumn": 18,
-                  "endLine": 14,
-                  "endColumn": 32
+                  "endLine": 12,
+                  "endColumn": 31
                 }
               }
             }
@@ -1533,88 +1491,6 @@
           ],
           "properties": {
             "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'MotoUpdateDTO' to match pascal case naming rules, consider using 'MotoUpdateDto'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 20,
-                  "startColumn": 18,
-                  "endLine": 20,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1192",
-          "level": "warning",
-          "message": "Define a constant instead of using this literal 'Motos' 4 times.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514204331_Inicial.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 23,
-                  "endLine": 15,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514204331_Inicial.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 41,
-                  "endLine": 56,
-                  "endColumn": 48
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514204331_Inicial.cs",
-                "region": {
-                  "startLine": 97,
-                  "startColumn": 41,
-                  "endLine": 97,
-                  "endColumn": 48
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514204331_Inicial.cs",
-                "region": {
-                  "startLine": 138,
-                  "startColumn": 23,
-                  "endLine": 138,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": null,
-              "1": null,
-              "2": null
-            }
           }
         },
         {
@@ -1711,6 +1587,227 @@
               "3": null,
               "4": null,
               "5": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'CHAVEIRO' 7 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 26,
+                  "endLine": 23,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 24,
+                  "endLine": 27,
+                  "endColumn": 34
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 34
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 24,
+                  "endLine": 37,
+                  "endColumn": 34
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 24,
+                  "endLine": 49,
+                  "endColumn": 34
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 24,
+                  "endLine": 53,
+                  "endColumn": 34
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 23,
+                  "endLine": 56,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null
+            }
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PatioUpdateDTO' to match pascal case naming rules, consider using 'PatioUpdateDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 18,
+                  "endLine": 14,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PatioCreateDTO' to match pascal case naming rules, consider using 'PatioCreateDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PatioDTO' to match pascal case naming rules, consider using 'PatioDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/PatioDTO.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 18,
+                  "endLine": 3,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Motos' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514204331_Inicial.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 23,
+                  "endLine": 15,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514204331_Inicial.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 41,
+                  "endLine": 56,
+                  "endColumn": 48
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514204331_Inicial.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 41,
+                  "endLine": 97,
+                  "endColumn": 48
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514204331_Inicial.cs",
+                "region": {
+                  "startLine": 138,
+                  "startColumn": 23,
+                  "endLine": 138,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
             }
           }
         },
@@ -1820,103 +1917,6 @@
               "4": null,
               "5": null,
               "6": null
-            }
-          }
-        },
-        {
-          "ruleId": "S1192",
-          "level": "warning",
-          "message": "Define a constant instead of using this literal 'CHAVEIRO' 7 times.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 26,
-                  "endLine": 23,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
-                "region": {
-                  "startLine": 27,
-                  "startColumn": 24,
-                  "endLine": 27,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 24,
-                  "endLine": 32,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 24,
-                  "endLine": 37,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
-                "region": {
-                  "startLine": 49,
-                  "startColumn": 24,
-                  "endLine": 49,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 24,
-                  "endLine": 53,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Migrations/20250514221645_InitialCreate.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 23,
-                  "endLine": 56,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": null,
-              "1": null,
-              "2": null,
-              "3": null,
-              "4": null,
-              "5": null
             }
           }
         },
@@ -2213,6 +2213,27 @@
           }
         },
         {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await RunAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Program.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 1,
+                  "endLine": 21,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S6562",
           "level": "warning",
           "message": "Provide the \"DateTimeKind\" when creating this object.",
@@ -2276,48 +2297,6 @@
           }
         },
         {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 20,
-                  "endLine": 24,
-                  "endColumn": 23
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6966",
-          "level": "warning",
-          "message": "Await RunAsync instead.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/Program.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 1,
-                  "endLine": 21,
-                  "endColumn": 10
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "CA1862",
           "level": "note",
           "message": "Prefira a sobrecarga do método de comparação de strings 'string.Contains(string)' que usa um valor enum 'StringComparison' para realizar uma comparação que não diferencia maiúsculas de minúsculas, mas lembre-se de que isso pode causar mudanças sutis no comportamento, portanto, certifique-se de realizar testes completos após aplicar a sugestão, ou se a comparação culturalmente sensível não for necessária, considere usar 'StringComparison.OrdinalIgnoreCase'",
@@ -2340,6 +2319,27 @@
               "LeftOffendingMethod": "ToLower",
               "RightOffendingMethod": "ToLower"
             }
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/projetosMeu/Sprint1.NET/Sprint_1/DTO/MotoDTO.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 20,
+                  "endLine": 24,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
           }
         }
       ],
@@ -2406,14 +2406,14 @@
             ]
           }
         },
-        "S2068": {
-          "id": "S2068",
-          "shortDescription": "Hard-coded credentials are security-sensitive",
-          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
+        "S2115": {
+          "id": "S2115",
+          "shortDescription": "A secure password should be used when connecting to a database",
+          "fullDescription": "When accessing a database, an empty password should be avoided as it introduces a weakness.",
           "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2115",
           "properties": {
-            "category": "Blocker Security Hotspot",
+            "category": "Blocker Vulnerability",
             "isEnabledByDefault": true,
             "tags": [
               "C#",
