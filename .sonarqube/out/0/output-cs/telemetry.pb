@@ -1,0 +1,1 @@
+IR3C:\projetosMeu\Sprint1.NET\Sprint_1\Sprint_1.csproj¢net9.0òCSharp13
