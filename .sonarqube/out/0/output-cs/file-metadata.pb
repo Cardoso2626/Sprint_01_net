@@ -1,9 +1,9 @@
 k
 `C:\projetosMeu\Sprint1.NET\Sprint_1\obj\Debug\net9.0\Sprint_1.MvcApplicationPartsAssemblyInfo.csutf-8X
 MC:\projetosMeu\Sprint1.NET\Sprint_1\obj\Debug\net9.0\Sprint_1.AssemblyInfo.csutf-8n
-cC:\projetosMeu\Sprint1.NET\Sprint_1\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.csutf-8Z
-OC:\projetosMeu\Sprint1.NET\Sprint_1\obj\Debug\net9.0\Sprint_1.GlobalUsings.g.csutf-87
-.C:\projetosMeu\Sprint1.NET\Sprint_1\Program.csutf-8<
+cC:\projetosMeu\Sprint1.NET\Sprint_1\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.csutf-87
+.C:\projetosMeu\Sprint1.NET\Sprint_1\Program.csutf-8Z
+OC:\projetosMeu\Sprint1.NET\Sprint_1\obj\Debug\net9.0\Sprint_1.GlobalUsings.g.csutf-8<
 3C:\projetosMeu\Sprint1.NET\Sprint_1\Models\Patio.csutf-8;
 2C:\projetosMeu\Sprint1.NET\Sprint_1\Models\Moto.csutf-8B
 9C:\projetosMeu\Sprint1.NET\Sprint_1\Models\Funcionario.csutf-8?

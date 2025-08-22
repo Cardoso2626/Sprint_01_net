@@ -25,4 +25,3 @@ C:\projetosMeu\Sprint1.NET\Sprint_1\appsettings.Development.json
 C:\projetosMeu\Sprint1.NET\Sprint_1\appsettings.json
 C:\projetosMeu\Sprint1.NET\Sprint_1\Sprint_1.http
 C:\projetosMeu\Sprint1.NET\Sprint_1\Properties\launchSettings.json
-C:\projetosMeu\Sprint1.NET\Sprint_1\obj\Debug\net9.0\apphost.exe
