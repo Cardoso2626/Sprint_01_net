@@ -8,11 +8,14 @@ namespace Sprint_1.Migrations
     /// <inheritdoc />
     public partial class Inicial : Migration
     {
+        private const string TabelaMotos = "Motos";
+        private const string TabelaPatio = "PATIO";
+
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Motos",
+                name: TabelaMotos,
                 columns: table => new
                 {
                     Id = table.Column<long>(type: "NUMBER(19)", nullable: false)
@@ -27,7 +30,7 @@ namespace Sprint_1.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "PATIO",
+                name: TabelaPatio,
                 columns: table => new
                 {
                     ID = table.Column<long>(type: "NUMBER(19)", nullable: false)
@@ -53,7 +56,7 @@ namespace Sprint_1.Migrations
                     table.ForeignKey(
                         name: "FK_Chaveiro_Motos_MotoId",
                         column: x => x.MotoId,
-                        principalTable: "Motos",
+                        principalTable: TabelaMotos,
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -77,7 +80,7 @@ namespace Sprint_1.Migrations
                     table.ForeignKey(
                         name: "FK_FUNCIONARIO_PATIO_PatioId",
                         column: x => x.PatioId,
-                        principalTable: "PATIO",
+                        principalTable: TabelaPatio,
                         principalColumn: "ID");
                 });
 
@@ -94,13 +97,13 @@ namespace Sprint_1.Migrations
                     table.ForeignKey(
                         name: "FK_MotoPatio_Motos_MotosId",
                         column: x => x.MotosId,
-                        principalTable: "Motos",
+                        principalTable: TabelaMotos,
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_MotoPatio_PATIO_PatiosId",
                         column: x => x.PatiosId,
-                        principalTable: "PATIO",
+                        principalTable: TabelaPatio,
                         principalColumn: "ID",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -125,20 +128,11 @@ namespace Sprint_1.Migrations
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropTable(
-                name: "Chaveiro");
-
-            migrationBuilder.DropTable(
-                name: "FUNCIONARIO");
-
-            migrationBuilder.DropTable(
-                name: "MotoPatio");
-
-            migrationBuilder.DropTable(
-                name: "Motos");
-
-            migrationBuilder.DropTable(
-                name: "PATIO");
+            migrationBuilder.DropTable(name: "Chaveiro");
+            migrationBuilder.DropTable(name: "FUNCIONARIO");
+            migrationBuilder.DropTable(name: "MotoPatio");
+            migrationBuilder.DropTable(name: TabelaMotos);
+            migrationBuilder.DropTable(name: TabelaPatio);
         }
     }
 }

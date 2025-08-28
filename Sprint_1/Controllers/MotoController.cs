@@ -59,7 +59,7 @@ namespace Sprint_1.Controllers
                 Cor = dto.Marca,
                 Placa = dto.Placa,
                 DataFabricacao = new DateTime(dto.Ano, 1, 1)
-            };
+            };  
 
             _context.Motos.Add(novaMoto);
             await _context.SaveChangesAsync();
@@ -76,8 +76,8 @@ namespace Sprint_1.Controllers
 
             moto.Cor = dto.Marca;
             moto.Placa = dto.Placa;
-            moto.DataFabricacao = new DateTime(dto.Ano, 1, 1);
-
+            moto.DataFabricacao = new DateTime(dto.Ano, 1, 1 );
+            
             await _context.SaveChangesAsync();
             return NoContent();
         }
