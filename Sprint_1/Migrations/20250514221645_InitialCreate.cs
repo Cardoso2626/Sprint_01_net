@@ -8,33 +8,36 @@ namespace Sprint_1.Migrations
     public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
+        private const string TabelaChaveiro = "Chaveiro";
+        private const string TabelaChaveiroUpper = "CHAVEIRO";
+        
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropForeignKey(
                 name: "FK_Chaveiro_Motos_MotoId",
-                table: "Chaveiro");
+                table: TabelaChaveiro);
 
             migrationBuilder.DropPrimaryKey(
                 name: "PK_Chaveiro",
-                table: "Chaveiro");
+                table:TabelaChaveiro);
 
             migrationBuilder.RenameTable(
-                name: "Chaveiro",
-                newName: "CHAVEIRO");
+                name: TabelaChaveiro,
+                newName: TabelaChaveiroUpper);
 
             migrationBuilder.RenameIndex(
                 name: "IX_Chaveiro_MotoId",
-                table: "CHAVEIRO",
+                table: TabelaChaveiroUpper,
                 newName: "IX_CHAVEIRO_MotoId");
 
             migrationBuilder.AddPrimaryKey(
                 name: "PK_CHAVEIRO",
-                table: "CHAVEIRO",
+                table: TabelaChaveiroUpper,
                 column: "Id");
 
             migrationBuilder.AddForeignKey(
                 name: "FK_CHAVEIRO_Motos_MotoId",
-                table: "CHAVEIRO",
+                table: TabelaChaveiroUpper,
                 column: "MotoId",
                 principalTable: "Motos",
                 principalColumn: "Id",
@@ -46,29 +49,29 @@ namespace Sprint_1.Migrations
         {
             migrationBuilder.DropForeignKey(
                 name: "FK_CHAVEIRO_Motos_MotoId",
-                table: "CHAVEIRO");
+                table: TabelaChaveiroUpper);
 
             migrationBuilder.DropPrimaryKey(
                 name: "PK_CHAVEIRO",
-                table: "CHAVEIRO");
+                table: TabelaChaveiroUpper);
 
             migrationBuilder.RenameTable(
-                name: "CHAVEIRO",
-                newName: "Chaveiro");
+                name: TabelaChaveiroUpper,
+                newName: TabelaChaveiro);
 
             migrationBuilder.RenameIndex(
                 name: "IX_CHAVEIRO_MotoId",
-                table: "Chaveiro",
+                table: TabelaChaveiro,
                 newName: "IX_Chaveiro_MotoId");
 
             migrationBuilder.AddPrimaryKey(
                 name: "PK_Chaveiro",
-                table: "Chaveiro",
+                table: TabelaChaveiro,
                 column: "Id");
 
             migrationBuilder.AddForeignKey(
                 name: "FK_Chaveiro_Motos_MotoId",
-                table: "Chaveiro",
+                table: TabelaChaveiro,
                 column: "MotoId",
                 principalTable: "Motos",
                 principalColumn: "Id",
