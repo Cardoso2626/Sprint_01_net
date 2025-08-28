@@ -74,16 +74,7 @@ VC:\projetosMeu\Sprint1.NET\Sprint_1\Migrations\20250521225101_AddLocalizacaoToP
 4 D 
 
   $
-6 F „
-NC:\projetosMeu\Sprint1.NET\Sprint_1\Migrations\20250514221645_InitialCreate.cs
-
- &
-
-  "F
-4 D     ## 
-
---  $F
---6 F// 33 77 ;; @@ EE Î
+6 F Î
 HC:\projetosMeu\Sprint1.NET\Sprint_1\Migrations\20250514204331_Inicial.cs
 
 		  4
@@ -121,7 +112,16 @@ HC:\projetosMeu\Sprint1.NET\Sprint_1\Migrations\20250514204331_Inicial.cs
 „„ 
 …… 
 †† 
-‡‡ ‰
+‡‡ „
+NC:\projetosMeu\Sprint1.NET\Sprint_1\Migrations\20250514221645_InitialCreate.cs
+
+ &
+
+  "F
+4 D     ## 
+
+--  $F
+--6 F// 33 77 ;; @@ EE ‰
 3C:\projetosMeu\Sprint1.NET\Sprint_1\DTO\PatioDTO.cs
 
  

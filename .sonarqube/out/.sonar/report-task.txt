@@ -1,0 +1,7 @@
+organization=cardoso2626
+projectKey=Cardoso2626_Sprint_1_net
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.66598
+dashboardUrl=https://sonarcloud.io/dashboard?id=Cardoso2626_Sprint_1_net
+ceTaskId=AZjwun9t70MLUag_tiXZ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZjwun9t70MLUag_tiXZ

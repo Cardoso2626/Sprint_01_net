@@ -9,11 +9,11 @@ P
 6C:\projetosMeu\Sprint1.NET\Sprint_1\Models\Chaveiro.cs 8r	
 Ç
 VC:\projetosMeu\Sprint1.NET\Sprint_1\Migrations\20250521225101_AddLocalizacaoToPatio.cs 8j
-r	Ç≠
-NC:\projetosMeu\Sprint1.NET\Sprint_1\Migrations\20250514221645_InitialCreate.cs 8j
-,r=	 !#$%&'()*-./01345789;<=>@ABCEFGHIJKLMNÇ#)/37;@EK†
+r	Ç†
 HC:\projetosMeu\Sprint1.NET\Sprint_1\Migrations\20250514204331_Inicial.cs 8jÄrÖ	
- !"#$%&'()*,-./0123456789:;<=>@ABCDEFGHIJKLMNOPQRSTUWXYZ[\]^_`abcdefghijklmopqrsuvwxz{|}~ÅÇÉÑÖÜáàâäÇ= "$'),.023578:=@BDFGHIJKMOPRWY[\^`acfgilouzÉÑÖÜáM
+ !"#$%&'()*,-./0123456789:;<=>@ABCDEFGHIJKLMNOPQRSTUWXYZ[\]^_`abcdefghijklmopqrsuvwxz{|}~ÅÇÉÑÖÜáàâäÇ= "$'),.023578:=@BDFGHIJKMOPRWY[\^`acfgilouzÉÑÖÜá≠
+NC:\projetosMeu\Sprint1.NET\Sprint_1\Migrations\20250514221645_InitialCreate.cs 8j
+,r=	 !#$%&'()*-./01345789;<=>@ABCEFGHIJKLMNÇ#)/37;@EKM
 3C:\projetosMeu\Sprint1.NET\Sprint_1\DTO\PatioDTO.cs 8r	
 U
 2C:\projetosMeu\Sprint1.NET\Sprint_1\DTO\MotoDTO.cs 8r	
